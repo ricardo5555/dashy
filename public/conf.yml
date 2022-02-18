@@ -44,4 +44,29 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
+- name: Productivity
+  items:
+  - title: ProtonMail
+    description: Secure Encrypted Email
+    icon: favicon
+    url: https://mail.protonmail.com/
+  - title: AnonAddy
+    description: Mail aliasing and forwarding service
+    icon: favicon
+    url: https://app.anonaddy.com/
+  - title: LessPass
+    description: Deterministic password generator
+    icon: favicon
+    url: https://lesspass.com/
+  - title: EteSync
+    description: Calendar, contacts and tasks
+    icon: favicon
+    url: https://client.etesync.com/
+  - title: Live Coin Watch
+    description: Real-time crypto prices and read-only portfolio
+    icon: favicon
+    url: https://www.livecoinwatch.com/
+  - title: Standard Notes
+    description: Encrypted productivity suit
+    icon: favicon
+    url: https://app.standardnotes.org/
