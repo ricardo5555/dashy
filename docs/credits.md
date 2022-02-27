@@ -100,7 +100,7 @@
         <a href="https://github.com/ricardo5555">
             <img src="https://avatars.githubusercontent.com/u/49594482?v=4" width="80;" alt="ricardo5555"/>
             <br />
-            <sub><b>ricardo5555</b></sub>
+            <sub><b>Ricardo5555</b></sub>
         </a>
     </td>
     <td align="center">
