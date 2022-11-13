@@ -33,8 +33,8 @@ Alicia <yke> - 16 commits
 EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
 Alicia <o> - 50 commits
 Alicia <yke> - 60 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 61 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 62 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 62 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 63 commits
 liss-bot <liss-bot@d0h.co> - 66 commits
 Alicia <yke> - 331 commits
 Alicia <yke> - 1337 commits
