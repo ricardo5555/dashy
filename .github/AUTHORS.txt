@@ -1,40 +1,40 @@
 Alicia <liss-bot@d0h.co> - 1 commits
 Begin <support@begin.com> - 1 commits
 David <skaarj1989@gmail.com> - 1 commits
-DeepSource <o> - 1 commits
-Devin <uh> - 1 commits
+DeepSource Bot <bot@deepsource.io> - 1 commits
+Devin Buhl <devin.kray@gmail.com> - 1 commits
 FormatToday <616099456@qq.com> - 1 commits
-Iaroslav <ronski> - 1 commits
-Ishan <ai> - 1 commits
-Kieren <onnel> - 1 commits
-Rune <jørnerå> - 1 commits
-Ryan <urne> - 1 commits
-Shreya <o> - 1 commits
+Iaroslav Dronskii <iaroslav@dronskii.ru> - 1 commits
+Ishan Jain <ishan@jain.se> - 1 commits
+Kieren Connell <Kieren@kierenconnell.com> - 1 commits
+Rune Bjørnerås <rune.bjorneras@gmail.com> - 1 commits
+Ryan Turner <ryan.e.t@gmail.com> - 1 commits
+Shreya Roy <shreyaroy.2604@gmail.com> - 1 commits
 Xert <xertdev@gmail.com> - 1 commits
 icy-comet <50461557+icy-comet@users.noreply.github.com> - 1 commits
 jnach <33467747+jnach@users.noreply.github.com> - 1 commits
 ricardo5555 <ricardo5555@users.noreply.github.com> - 1 commits
 BOZG <sr@bozg.se> - 2 commits
-Brendan <&#39;Lear> - 2 commits
-Dan <ilber> - 2 commits
-Ruben <ilv> - 2 commits
+Brendan O&#39;Leary <boleary@gitlab.com> - 2 commits
+Dan Gilbert <ddg@daentech.co.uk> - 2 commits
+Ruben Silva <rubensilva945@gmail.com> - 2 commits
 ricardo5555 <49594482+ricardo5555@users.noreply.github.com> - 2 commits
-ᗪєνιη <υн> - 2 commits
+ᗪєνιη ᗷυнʟ <onedr0p@users.noreply.github.com> - 2 commits
 Walkx <71191962+walkxcode@users.noreply.github.com> - 3 commits
-Niklas <abe> - 4 commits
+Niklas Zabel <nzabel@Mini-von-Niklas.fritz.box> - 4 commits
 Alicie <gh@d0h.co> - 5 commits
 UrekD <urek.denis@gmail.com> - 5 commits
-Erik <roo> - 6 commits
-Leonardo <ovarrubia> - 6 commits
-Kashif <ohai> - 9 commits
-Alicia <yke> - 10 commits
+Erik Vroon <erik.vroon22@gmail.com> - 6 commits
+Leonardo Covarrubias <leos@leocov.com> - 6 commits
+Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
+Alicia Sykes <alicia@futr.ai> - 10 commits
 snyk-bot <snyk-bot@snyk.io> - 15 commits
-Alicia <yke> - 16 commits
+Alicia Sykes <&#x3D;> - 16 commits
 EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
-Alicia <o> - 50 commits
-Alicia <yke> - 60 commits
+Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 50 commits
+Alicia Sykes <alicia@omg.lol> - 60 commits
 liss-bot <liss-bot@d0h.co> - 66 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 74 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 76 commits
-Alicia <yke> - 331 commits
-Alicia <yke> - 1337 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 75 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 77 commits
+Alicia Sykes <gh@d0h.co> - 331 commits
+Alicia Sykes <sykes.alicia@gmail.com> - 1337 commits
