@@ -33,8 +33,8 @@ Alicia Sykes <&#x3D;> - 16 commits
 EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 50 commits
 Alicia Sykes <alicia@omg.lol> - 60 commits
-liss-bot <liss-bot@d0h.co> - 66 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 98 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 101 commits
+liss-bot <liss-bot@d0h.co> - 67 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 99 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 103 commits
 Alicia Sykes <gh@d0h.co> - 331 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1337 commits
